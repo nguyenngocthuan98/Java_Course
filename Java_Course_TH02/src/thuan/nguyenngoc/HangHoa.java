@@ -48,6 +48,6 @@ public class HangHoa {
 
 	public String HangHoa() {
 		return "-----\n Tên hàng : " + tenhang + "\n Ngày sản xuất : " + ngaysanxuat + "\n Đơn giá : " + dongia
-				+ "\n Số lượng : " + soluong + "\n Thành tiền: " + TinhTien()+"\n Cảm ơn đã mua hàng. Hẹn gặp lại";
+				+ "\n Số lượng : " + soluong + "\n Thành tiền: " + TinhTien();
 	}
 }
